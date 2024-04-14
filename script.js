@@ -59,4 +59,4 @@ const nextQuote = () => {
 
 nextQuote();
 
-// newQuoteButton.addEventListener("click", nextQuote);
+
